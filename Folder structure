@@ -1,0 +1,9 @@
+api-test-automation/
+│── src/
+│ └── test/
+│ └── java/
+│ └── apiTests/
+│── postman_collections/
+│ └── sample_collection.json
+│── pom.xml
+│── README.md
